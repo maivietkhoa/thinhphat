@@ -1,0 +1,6 @@
+F:\ThinhPhat\ThinhPhat\ThinhPhat.Business\bin\Debug\ThinhPhat.Business.dll
+F:\ThinhPhat\ThinhPhat\ThinhPhat.Business\bin\Debug\ThinhPhat.Business.pdb
+F:\ThinhPhat\ThinhPhat\ThinhPhat.Business\bin\Debug\TGDD.Library.Data.dll
+F:\ThinhPhat\ThinhPhat\ThinhPhat.Business\obj\Debug\ThinhPhat.Business.csprojResolveAssemblyReference.cache
+F:\ThinhPhat\ThinhPhat\ThinhPhat.Business\obj\Debug\ThinhPhat.Business.dll
+F:\ThinhPhat\ThinhPhat\ThinhPhat.Business\obj\Debug\ThinhPhat.Business.pdb

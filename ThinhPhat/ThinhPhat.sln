@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinhPhat.WEB", "ThinhPhat.WEB\ThinhPhat.WEB.csproj", "{78BA8E79-BEDC-456F-9A0D-2B3942A39B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinhPhat.EWorking", "ThinhPhat.EWorking\ThinhPhat.EWorking.csproj", "{B427180D-628B-4CBF-988D-1737C3B6495C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinhPhat.Business", "ThinhPhat.Business\ThinhPhat.Business.csproj", "{DECB21F2-9A9C-4D54-AA45-55CF037772BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78BA8E79-BEDC-456F-9A0D-2B3942A39B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BA8E79-BEDC-456F-9A0D-2B3942A39B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BA8E79-BEDC-456F-9A0D-2B3942A39B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BA8E79-BEDC-456F-9A0D-2B3942A39B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B427180D-628B-4CBF-988D-1737C3B6495C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B427180D-628B-4CBF-988D-1737C3B6495C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B427180D-628B-4CBF-988D-1737C3B6495C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B427180D-628B-4CBF-988D-1737C3B6495C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECB21F2-9A9C-4D54-AA45-55CF037772BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECB21F2-9A9C-4D54-AA45-55CF037772BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECB21F2-9A9C-4D54-AA45-55CF037772BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECB21F2-9A9C-4D54-AA45-55CF037772BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

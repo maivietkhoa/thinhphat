@@ -1,0 +1,5 @@
+F:\ThinhPhat\ThinhPhat\ThinhPhat.EWorking\bin\Debug\ThinhPhat.EWorking.dll
+F:\ThinhPhat\ThinhPhat\ThinhPhat.EWorking\bin\Debug\ThinhPhat.EWorking.pdb
+F:\ThinhPhat\ThinhPhat\ThinhPhat.EWorking\obj\Debug\ThinhPhat.EWorking.csprojResolveAssemblyReference.cache
+F:\ThinhPhat\ThinhPhat\ThinhPhat.EWorking\obj\Debug\ThinhPhat.EWorking.dll
+F:\ThinhPhat\ThinhPhat\ThinhPhat.EWorking\obj\Debug\ThinhPhat.EWorking.pdb
